@@ -612,11 +612,11 @@ footer li{
 	margin-right: 15px;
 }
 footer .foot em{
-	float: right;
+	float: left;
 	padding-left: 20px;
 }
 footer ul li{
-	padding-right: 80px;
+	padding-right: 30px;
 }
 
 

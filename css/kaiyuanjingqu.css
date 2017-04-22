@@ -618,5 +618,8 @@ footer .foot em{
 footer ul li{
 	padding-right: 5px;
 }
+footer li{
+	background-color: green;
+}
 
 

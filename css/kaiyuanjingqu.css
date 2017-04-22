@@ -621,5 +621,8 @@ footer ul li{
 footer li{
 	background-color: green;
 }
+footer li{
+	float: right;
+}
 
 

@@ -610,6 +610,7 @@ footer{
 footer li{
 	float: left;
 	margin-right: 15px;
+	margin-left: 20px;
 }
 footer .foot em{
 	float: left;
@@ -621,10 +622,6 @@ footer ul li{
 footer li{
 	background-color: green;
 }
-footer {
-	margin: 0;
-	margin: 20px;
-	margin-left: 20px;
-}
+	
 
 

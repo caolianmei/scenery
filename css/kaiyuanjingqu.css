@@ -621,5 +621,10 @@ footer ul li{
 footer li{
 	background-color: green;
 }
+footer {
+	margin: 0;
+	margin: 20px;
+	margin-left: 20px;
+}
 
 
